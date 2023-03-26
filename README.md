@@ -13,12 +13,13 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 ## Sneak Peek of Main Page 🙈 :
-![mockup720](/assets/images/projects/portfolio1.png)
+![Screenshot from 2023-03-26 19-02-42](https://user-images.githubusercontent.com/114948505/227779291-716c169d-2b45-4787-bc8e-68dafa36ac7c.png)
+
 
 <h2>📬 Contact</h2>
 
 If you want to contact me, you can reach me through below handles.
 
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/imlakshay08/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/aditya-saini-ba44261b8"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
