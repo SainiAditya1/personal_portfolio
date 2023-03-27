@@ -1,60 +1,52 @@
 [
   {
-    "name": "Waste Management System",
-    "desc": "This Waste Management System is a web application aimed to provide a digital way of complaining the concerns of general citizens to their relative municipalities. ",
+    "name": "Note Keeper React App",
+    "desc": "In this web App user can add their notes  ",
     "image": "capture",
-    "category": "full stack",
+    "category": "React App",
     "links": {
       "view": "https://waste-managemnt-system.000webhostapp.com/",
-      "code": "https://github.com/imlakshay08/Waste-Management-System"
+      "code": "https://github.com/SainiAditya1/Notes_keeper_React-App/tree/master"
     }
   },
   {
-    "name": "Email/SMS Detection System",
-    "desc": "This is an Email/SMS spam detection system classifies messages you recieve on emails and sms as spam or not spam. ",
+    "name": "Spotify  Clone ",
+    "desc": "A spotify clone e clone in which user can play the songs  .It uses the sotify API  ",
     "image": "spam",
-    "category": "data science",
+    "category": "Full Stack ",
     "links": {
-      "code": "https://github.com/imlakshay08/Email_SMS-Spam-Detection-System"
+      "code": "https://github.com/SainiAditya1/spotifyclone"
     }
   },
   {
-    "name": "ShareMe(in progress)",
-    "desc": "A full stack social media web-application made using React, Tailwind CSS and Sanity.",
+    "name": "A Dice Game",
+    "desc": "A Dice game which throws two dice together and tells about the winner based on the score .",
     "image": "favicon",
     "category": "full stack",
     "links": {
-      "code": "https://github.com/imlakshay08/ShareMe"
+      "view":"https://sainiaditya1.github.io/project1/",
+      "code": "https://github.com/SainiAditya1/project1"
     }
   },
-  {
-    "name": "Custom Video Player",
-    "desc": "A basic video-player built using JavaScript, HTML and CSS. Access the video-player - ",
-    "image": "favicon2",
-    "category": "frontend",
-    "links": {
-      "view": "https://imlakshay08.github.io/Video-Player-using-JavaScript/",
-      "code": "https://github.com/imlakshay08/Video-Player-using-JavaScript"
-    }
-  },
+  
   {
     "name": "Personal Portfolio",
     "desc": "My personal portfolio website, build using HTML5, CSS3, JavaScript and jQuery. ",
     "image": "portfolio1",
     "category": "frontend",
     "links": {
-      "view": "https://imlakshay08.netlify.app/",
-      "code": "https://github.com/imlakshay08/PersonalPortfolio"
+      "view": "https://sainiaditya1.github.io/personal_portfolio/",
+      "code": "https://github.com/SainiAditya1/personal_portfolio"
     }
   },
   {
-    "name": "Pong Game",
-    "desc": "It is a simple pong game built using Java",
+    "name": "Todo List",
+    "desc": "It is a simple todo list web app in which user can add their daily tasks and If the task is completed thern mark It as completed",
     "image": "pong",
-    "category": "java",
+    "category": "Fronted Web App",
     "links": {
       "view": "https://user-images.githubusercontent.com/77228428/190872810-9b564f0c-4171-4336-9fe6-7098aec247bc.mp4",
-      "code": "https://github.com/imlakshay08/Java-Pong-Game"
+      "code": "https://github.com/SainiAditya1/todo-listv1"
     }
   }
 ]
