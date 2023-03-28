@@ -3,7 +3,7 @@
     "name": "Note Keeper React App",
     "desc": "In this web App user can add their notes  ",
     
-    "image":"notes" ,
+    "image":"/home/aditya/PersonalPortfolio-main/assets/images/projects/notes.png" ,
     "category": "React App",
     "links": {
       "view": "https://waste-managemnt-system.000webhostapp.com/",
