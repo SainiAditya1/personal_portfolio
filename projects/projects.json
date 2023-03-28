@@ -3,7 +3,7 @@
     "name": "Note Keeper React App",
     "desc": "In this web App user can add their notes  ",
     
-    "image":"/home/aditya/PersonalPortfolio-main/assets/images/projects/notes.png" ,
+    "image":"notes" ,
     "category": "React App",
     "links": {
       "view": "https://waste-managemnt-system.000webhostapp.com/",
@@ -12,7 +12,7 @@
   },
   {
     "name": "Spotify  Clone ",
-    "desc": "A spotify clone e clone in which user can play the songs  .It uses the sotify API  ",
+    "desc": "A spotify clone clone in which user can play the songs  .It uses the sotify API  ",
     "image": "spam",
     "category": "Full Stack ",
     "links": {
