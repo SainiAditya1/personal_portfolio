@@ -33,10 +33,10 @@
   {
     "name": "Personal Portfolio",
     "desc": "My personal portfolio website, build using HTML5, CSS3, JavaScript and jQuery. ",
-    "image": "portfolio1",
+    "image": "portfolio23",
     "category": "frontend",
     "links": {
-      "view": "https://user-images.githubusercontent.com/114948505/227779291-716c169d-2b45-4787-bc8e-68dafa36ac7c.png",
+      "view": "https://personal-portfolio-dvuwwwpnn-sainiaditya1.vercel.app/",
       "code": "https://github.com/SainiAditya1/personal_portfolio"
     }
   },
